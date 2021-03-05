@@ -1,0 +1,72 @@
+-- LATEST 
+
+Business Analyst - Strong technical background and broad experience in Software. 
+
+As Business Analyst, he worked in end-to-end delivery; 
+∙ Eliciting and Analysing business processes and data requirements into documentation with to-be suggestions; Sticky notes to  User Story, BPM/N and BRD, etc
+∙ Specifying application behaviour, interface and data mappings: Application Spec, Flow charts, data spec and mapping, API doc, etc
+∙ Facilitating stakeholder sessions including workshop, interview and training
+∙ Driving and supporting implementation and feedback
+∙ Writing test cases and test execution for acceptance
+∙ Supporting provisioning and Go-live and post-PROD
+
+He is specialised in designing customer contact strategy using multi-channels in mobile app, web, emails and etc . It automated customer interaction by improving response time and reducing agent cost in customer contact.
+Demonstrated his capacity, time management skill and flexibility with all time fast paced projects in Agile and Waterfall SDLC
+Continuously deepening business acumen with big AU banks, Energy and Telco clients as well as in AP/J region.
+
+As a technical hands-on, he programs Web with complementary skills of NodeJS, React, CI/CD, Docker/Kubernetes, MongoDB and REST API on top of development experience in IBM Security with Java, Object-Oriented, messaging, Eclipse and RDBMS, etc
+He is deeply adopted in TDD and Microservices. 
+Currently learning blockchain and crypto currency in Udemy courses.
+
+Github: https://github.com/birth118
+
+Cooperative and team-minded.
+
+
+He is open to new opportunities. 
+
+✴︎ Specialties
+∙ Business Analysis 
+∙ Software Engineering 
+∙ Problem solving  
+∙ AP/J business
+∙ Business acumen  
+
+
+-- PRE 2021 03 05----------
+
+A senior Business Analyst and Software Engineer - Strong technical background and broad experience in Software.
+
+As Business Analyst, he worked in end-to-end delivery; translating business into design and implementation, provisioning, testing for go-live acceptance.
+Specialised in designing customer communication strategy using multi-channels in mobile app, IVR/SMS and email etc. It automated customer interaction by improving response time and reducing agent cost in customer contact.
+Demonstrated his capacity, time management skill and flexibility with all time fast running projects.
+Continuously deepening business experience with big AU bank and energy clients as well as in AP/J region.
+
+As a Software Engineer, he developed IBM Tivoli Security Software.
+Advocated Object-Oriented in distributed monitoring and log analysis with Java along the web application framework such as JSP Struts and Spring.
+Certified CISSP to improve his field knowledge and to help client engagement.
+He also was recognised Tivoli Lab director’s award of Software Engineer of the Year with his technical excellence and high performance.
+
+Later he adopted JavaScript and Node.JS.
+
+He is a passionate about learning new skills.
+As a full stack engineer, he extended his JavaScript and Node.JS skills by adding frontend React/Redux, and backend Microservices, Docker/Kubernetes and REST API etc
+He used to build web application with Node.JS and plain JavaScript/HTTP/CSS.
+
+Currently learning blockchain and crypto currency in Udemy courses.
+
+He experienced L2 Customer Support as engineer, and team manager in IBM Support AP/J.
+Accredited as top-talent with his strong problem solving skills and high customer satisfaction.
+He demonstrated his leadership and business acumen by taking managerial responsibility of +15 multi-cultural support team across the region
+
+An MBA from Macquarie Graduate School of Management, Sydney, where focusing on business strategy, social enterprise and quantitative analysis. He also holds Master degree in Information Management from Sogang university in Korea
+
+He is open to new opportunities in Software industry.
+
+✴︎ Specialties:
+∙ Software Engineering - development and testing, full stack NodeJS, Web and Clouds
+∙ Business Analysis - gap analysis, requirement specification, go-live delivery and best practice
+∙ Problem solving - issue identification, root cause analysis, build alternative solution
+∙ AP/J business - in-depth regional experience with their prioritisation and decision making process
+∙ Business acumen - strategic decision, cost benefit analysis
+
